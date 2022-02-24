@@ -1,0 +1,97 @@
+.bluebb{
+    position: absolute;
+width: 1016px;
+height: 600px;
+left: 600.76px;
+top: 300.96px;
+
+
+filter: blur(700px);
+transform: rotate(-165deg);
+
+
+
+}
+
+.box{
+    position: absolute;
+width: 400px;
+height: 600px;
+left: 300px;
+top: 600px;
+
+background: #171B29;
+border-radius: 25px;
+}
+.first{
+    position: absolute;
+width: 562px;
+height: 162px;
+left: 150px;
+top: 200px;
+
+font-family: Century Gothic;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 54px;
+
+
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+
+}
+.logo{
+   
+
+left: 29.4px;
+right: 2.7px;
+top: 26.67px;
+color: red;
+
+
+background: #FFFFFF;
+}
+.picture{
+    position: absolute;
+    width: 1793.54px;
+    height: 1494.02px;
+    left: 1000.24px;
+    top: 100.2px;
+    
+
+
+}
+.details{
+    color:white;
+    font-family: Century Gothic;
+    font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 54px;
+
+
+}
+.innerform{
+    color:white;
+    font-family: Century Gothic;
+    font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 54px;
+
+
+}
+.button{
+    background-color: #4CAF50;
+    display: inline-block;
+}
+.alignment{
+   
+   
+
+    
+
+
+}
